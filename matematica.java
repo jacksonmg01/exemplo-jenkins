@@ -1,5 +1,5 @@
 public class Matematica {
-	public static int soma(int a, inte b){
+	public static int soma(int a, int b){
 			return a+b;
 	}
 }
